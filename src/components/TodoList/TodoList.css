@@ -1,0 +1,15 @@
+.list-group-item {
+  margin: 10px; 
+   display:flex;
+  justify-content: space-between;
+}
+.text{
+  text-decoration:line-through;
+}
+button{
+  background-color: rgb(173, 18, 18);
+  color:#fff;
+  padding: 7px 12px;
+  border-radius: 5px;
+  
+}
